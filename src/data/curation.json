@@ -1,0 +1,736 @@
+{
+  "revision": "2026-10-19.1",
+  "evidenceSources": [
+    {
+      "id": "user-2026-10-19",
+      "title": {
+        "ru": "Уточнения команды кампуса · 19.10.2026",
+        "en": "Campus team corrections · 19 Oct 2026"
+      },
+      "kind": "user",
+      "url": null,
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "id": "campus-sign-photo",
+      "title": {
+        "ru": "Фотография указателя территории КубГУ",
+        "en": "Photographed KubSU campus directory"
+      },
+      "kind": "user",
+      "url": null,
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "id": "yandex-screenshots",
+      "title": {
+        "ru": "Приложенные снимки Яндекс Карт",
+        "en": "Supplied Yandex Maps screenshots"
+      },
+      "kind": "user",
+      "url": null,
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "id": "vtour",
+      "title": {
+        "ru": "Виртуальный тур КубГУ",
+        "en": "KubSU virtual tour"
+      },
+      "kind": "official",
+      "url": "https://vtour.kubsu.ru/map/map.html",
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "id": "phonebook",
+      "title": {
+        "ru": "Телефонный справочник КубГУ",
+        "en": "KubSU telephone directory"
+      },
+      "kind": "official",
+      "url": "https://tel.kubsu.ru/",
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "id": "yandex-building",
+      "title": {
+        "ru": "Яндекс Карты · Ставропольская, 149",
+        "en": "Yandex Maps · 149 Stavropolskaya"
+      },
+      "kind": "yandex",
+      "url": "https://yandex.com/maps/35/krasnodar/house/stavropolskaya_ulitsa_149/Z0AYdgRhS0UBQFpvfXxweHphYw==/inside/",
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "id": "yandex-buffet10",
+      "title": {
+        "ru": "Яндекс Карты · Буфет № 10",
+        "en": "Yandex Maps · Cafeteria 10"
+      },
+      "kind": "yandex",
+      "url": "https://yandex.com/maps/org/bufet_10/206743041271/",
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "id": "yandex-student-union",
+      "title": {
+        "ru": "Яндекс Карты · Профком студентов",
+        "en": "Yandex Maps · Student union"
+      },
+      "kind": "yandex",
+      "url": "https://yandex.com/maps/org/pervichnoye_profsoyuznaya_organizatsiya_studentov_kubgu/1134024905/",
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "id": "yandex-technopark",
+      "title": {
+        "ru": "Яндекс Карты · Технопарк",
+        "en": "Yandex Maps · Technopark"
+      },
+      "kind": "yandex",
+      "url": "https://yandex.com/maps/org/kuban_state_university_science_and_technology_park_technopark_university/1168261110/",
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "id": "yandex-pool",
+      "title": {
+        "ru": "Яндекс Карты · Бассейн КубГУ",
+        "en": "Yandex Maps · KubSU pool"
+      },
+      "kind": "yandex",
+      "url": "https://yandex.com/maps/org/basseyn_kubgu/182282623432/",
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "id": "yandex-library",
+      "title": {
+        "ru": "Яндекс Карты · Научная библиотека",
+        "en": "Yandex Maps · Scientific library"
+      },
+      "kind": "yandex",
+      "url": "https://yandex.com/maps/org/nauchnaya_biblioteka_kubgu/1219773688/",
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "id": "osm",
+      "title": {
+        "ru": "OpenStreetMap · территория КубГУ",
+        "en": "OpenStreetMap · KubSU campus"
+      },
+      "kind": "osm",
+      "url": "https://www.openstreetmap.org/relation/4512079",
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "id": "attached-repository",
+      "title": {
+        "ru": "Приложенный репозиторий · разметка стадиона",
+        "en": "Supplied repository · stadium markings"
+      },
+      "kind": "repository",
+      "url": null,
+      "consultedAt": "2026-10-19"
+    }
+  ],
+  "duplicateNumbers": [
+    "127",
+    "109С",
+    "213",
+    "214",
+    "215",
+    "216",
+    "Н408",
+    "Н416"
+  ],
+  "clearAssignments": [
+    "rect10875",
+    "rect10202"
+  ],
+  "corrections": [
+    {
+      "id": "rect9524",
+      "name": {
+        "ru": "Мобилизационный отдел · 215",
+        "en": "Mobilisation office · 215"
+      },
+      "description": {
+        "ru": "Кабинет 215, второй этаж главного корпуса. Номер уточнён командой кампуса и совпадает с телефонным справочником КубГУ.",
+        "en": "Room 215, second floor of the main building. The campus team confirmed the number, which matches the KubSU telephone directory."
+      },
+      "category": "office",
+      "aliases": [
+        "215",
+        "моб отдел",
+        "мобилизационный отдел",
+        "mobilisation",
+        "mobilization"
+      ],
+      "evidenceIds": [
+        "user-2026-10-19",
+        "phonebook"
+      ]
+    },
+    {
+      "id": "rect10857",
+      "name": {
+        "ru": "Читальный зал · 109С",
+        "en": "Reading room · 109S"
+      },
+      "description": {
+        "ru": "Читальный зал в корпусе С, первый этаж, кабинет 109С.",
+        "en": "Reading room in S wing, first floor, room 109S."
+      },
+      "category": "library",
+      "aliases": [
+        "109С",
+        "109C",
+        "109S",
+        "читальный зал",
+        "reading room"
+      ],
+      "evidenceIds": [
+        "user-2026-10-19",
+        "phonebook"
+      ]
+    },
+    {
+      "id": "rect9767",
+      "name": {
+        "ru": "Буфет № 10 · 2021Л",
+        "en": "Cafeteria 10 · 2021L"
+      },
+      "description": {
+        "ru": "Буфет на втором этаже корпуса Л. Номер помещения 2021Л сохранён по исходной схеме.",
+        "en": "Cafeteria on the second floor of L wing. Room number 2021L comes from the original plan."
+      },
+      "category": "food",
+      "aliases": [
+        "2021Л",
+        "2021L",
+        "буфет",
+        "буфет 10",
+        "cafeteria",
+        "buffet 10"
+      ],
+      "evidenceIds": [
+        "yandex-buffet10",
+        "vtour"
+      ]
+    },
+    {
+      "id": "rect9518",
+      "name": {
+        "ru": "Профком студентов · 216",
+        "en": "Student union · 216"
+      },
+      "description": {
+        "ru": "Профсоюзная организация студентов, кабинет 216, второй этаж главного корпуса.",
+        "en": "Student trade union, room 216, second floor of the main building."
+      },
+      "category": "office",
+      "aliases": [
+        "216",
+        "профком",
+        "student union"
+      ],
+      "evidenceIds": [
+        "yandex-student-union",
+        "vtour"
+      ]
+    },
+    {
+      "id": "rect10669",
+      "name": {
+        "ru": "Технопарк · 108",
+        "en": "Technopark · 108"
+      },
+      "description": {
+        "ru": "Научно-технологический парк «Технопарк Университет», кабинет 108, первый этаж.",
+        "en": "University Science and Technology Park, room 108, first floor."
+      },
+      "category": "office",
+      "aliases": [
+        "108",
+        "технопарк",
+        "technopark"
+      ],
+      "evidenceIds": [
+        "yandex-technopark"
+      ]
+    },
+    {
+      "id": "rect9559",
+      "name": {
+        "ru": "Главная лестница · 2 этаж",
+        "en": "Main staircase · floor 2"
+      },
+      "description": {
+        "ru": "Через площадку главной лестницы второго этажа можно пройти в присоединённый корпус Л.",
+        "en": "The second-floor main staircase landing connects to the attached L wing."
+      },
+      "category": "stairs",
+      "aliases": [
+        "главная лестница",
+        "main staircase"
+      ],
+      "evidenceIds": [
+        "user-2026-10-19",
+        "vtour"
+      ]
+    },
+    {
+      "id": "building-L",
+      "name": {
+        "ru": "Корпус Л",
+        "en": "L wing"
+      },
+      "description": {
+        "ru": "Часть главного здания. Внутренний проход через главную лестницу на втором этаже; отдельные наружные входы также сохранены.",
+        "en": "Part of the main building. An indoor passage via the main staircase on floor 2 connects the wings; the mapped outside entrances are also retained."
+      },
+      "category": "building",
+      "aliases": [
+        "Л",
+        "L",
+        "корпус Л",
+        "L wing"
+      ],
+      "evidenceIds": [
+        "user-2026-10-19",
+        "vtour",
+        "yandex-building"
+      ]
+    },
+    {
+      "id": "building-pool",
+      "name": {
+        "ru": "Бассейн «Аквакуб» и спортзал",
+        "en": "Akvakub pool and gym"
+      },
+      "description": {
+        "ru": "Спортивный комплекс КубГУ. Адрес: Ставропольская, 149/1.",
+        "en": "KubSU sports complex. Address: 149/1 Stavropolskaya Street."
+      },
+      "category": "building",
+      "aliases": [
+        "Аквакуб",
+        "бассейн",
+        "Akvakub",
+        "pool",
+        "gym"
+      ],
+      "evidenceIds": [
+        "campus-sign-photo",
+        "yandex-pool"
+      ],
+      "mapLabel": {
+        "ru": "Аквакуб",
+        "en": "Akvakub"
+      }
+    },
+    {
+      "id": "building-lib",
+      "name": {
+        "ru": "Научная библиотека",
+        "en": "Scientific library"
+      },
+      "description": {
+        "ru": "Библиотечный корпус КубГУ.",
+        "en": "KubSU library building."
+      },
+      "category": "building",
+      "aliases": [
+        "библиотека",
+        "library"
+      ],
+      "evidenceIds": [
+        "campus-sign-photo",
+        "yandex-library"
+      ],
+      "mapLabel": {
+        "ru": "Библиотека",
+        "en": "Library"
+      }
+    }
+  ],
+  "outdoorPlaces": [
+    {
+      "id": "campus-stadium",
+      "name": {
+        "ru": "Стадион КубГУ",
+        "en": "KubSU stadium"
+      },
+      "mapLabel": {
+        "ru": "Стадион",
+        "en": "Stadium"
+      },
+      "originalName": "Стадион КубГУ",
+      "description": {
+        "ru": "Стадион на территории кампуса. Вход и пешеходный подход требуют уточнения.",
+        "en": "Campus stadium. Its entrance and pedestrian approach still need verification."
+      },
+      "category": "sport",
+      "buildingId": null,
+      "floor": null,
+      "environment": "outdoor",
+      "x": 370.2,
+      "y": 152.4,
+      "width": 109.06,
+      "height": 244.65,
+      "nodeIds": [],
+      "aliases": [
+        "стадион",
+        "stadium",
+        "football",
+        "футбол"
+      ],
+      "source": "curation-2026-10-19",
+      "verified": false,
+      "searchable": true,
+      "catalogStatus": "curated",
+      "evidenceIds": [
+        "campus-sign-photo",
+        "yandex-screenshots",
+        "osm",
+        "attached-repository"
+      ],
+      "outdoorFeatureIds": [
+        "way/44677836"
+      ],
+      "contextIndices": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "campus-dorm-2",
+      "name": {
+        "ru": "Общежитие № 2",
+        "en": "Dormitory 2"
+      },
+      "mapLabel": {
+        "ru": "Общежитие 2",
+        "en": "Dorm 2"
+      },
+      "originalName": "Общежитие № 2",
+      "description": {
+        "ru": "Улица Димитрова, 170. Внутренние этажи и вход ещё не нанесены.",
+        "en": "170 Dimitrova Street. Indoor floors and the entrance are not mapped yet."
+      },
+      "category": "dormitory",
+      "buildingId": null,
+      "floor": null,
+      "environment": "outdoor",
+      "x": 95,
+      "y": 201,
+      "width": 126,
+      "height": 126,
+      "nodeIds": [],
+      "aliases": [
+        "общежитие 2",
+        "общага 2",
+        "dorm 2",
+        "Димитрова 170"
+      ],
+      "source": "curation-2026-10-19",
+      "verified": false,
+      "searchable": true,
+      "catalogStatus": "curated",
+      "evidenceIds": [
+        "campus-sign-photo",
+        "yandex-screenshots",
+        "osm"
+      ],
+      "outdoorFeatureIds": [
+        "way/32888055"
+      ],
+      "contextIndices": [
+        2
+      ]
+    },
+    {
+      "id": "campus-dorm-3",
+      "name": {
+        "ru": "Общежитие № 3",
+        "en": "Dormitory 3"
+      },
+      "mapLabel": {
+        "ru": "Общежитие 3",
+        "en": "Dorm 3"
+      },
+      "originalName": "Общежитие № 3",
+      "description": {
+        "ru": "Улица Димитрова, 172. Внутренние этажи и вход ещё не нанесены.",
+        "en": "172 Dimitrova Street. Indoor floors and the entrance are not mapped yet."
+      },
+      "category": "dormitory",
+      "buildingId": null,
+      "floor": null,
+      "environment": "outdoor",
+      "x": 99,
+      "y": 90,
+      "width": 127,
+      "height": 132,
+      "nodeIds": [],
+      "aliases": [
+        "общежитие 3",
+        "общага 3",
+        "dorm 3",
+        "Димитрова 172"
+      ],
+      "source": "curation-2026-10-19",
+      "verified": false,
+      "searchable": true,
+      "catalogStatus": "curated",
+      "evidenceIds": [
+        "campus-sign-photo",
+        "yandex-screenshots",
+        "osm"
+      ],
+      "outdoorFeatureIds": [
+        "way/32888059"
+      ],
+      "contextIndices": [
+        5
+      ]
+    },
+    {
+      "id": "campus-dorm-4",
+      "name": {
+        "ru": "Общежитие № 4",
+        "en": "Dormitory 4"
+      },
+      "mapLabel": {
+        "ru": "Общежитие 4",
+        "en": "Dorm 4"
+      },
+      "originalName": "Общежитие № 4",
+      "description": {
+        "ru": "Улица Димитрова, 174. Внутренние этажи и вход ещё не нанесены.",
+        "en": "174 Dimitrova Street. Indoor floors and the entrance are not mapped yet."
+      },
+      "category": "dormitory",
+      "buildingId": null,
+      "floor": null,
+      "environment": "outdoor",
+      "x": 36,
+      "y": 249,
+      "width": 47,
+      "height": 89,
+      "nodeIds": [],
+      "aliases": [
+        "общежитие 4",
+        "общага 4",
+        "dorm 4",
+        "Димитрова 174"
+      ],
+      "source": "curation-2026-10-19",
+      "verified": false,
+      "searchable": true,
+      "catalogStatus": "curated",
+      "evidenceIds": [
+        "campus-sign-photo",
+        "yandex-screenshots",
+        "osm"
+      ],
+      "outdoorFeatureIds": [
+        "way/32888057"
+      ],
+      "contextIndices": [
+        1
+      ]
+    },
+    {
+      "id": "campus-dorm-5",
+      "name": {
+        "ru": "Общежитие № 5",
+        "en": "Dormitory 5"
+      },
+      "mapLabel": {
+        "ru": "Общежитие 5",
+        "en": "Dorm 5"
+      },
+      "originalName": "Общежитие № 5",
+      "description": {
+        "ru": "Улица Димитрова, 176. Внутренние этажи и вход ещё не нанесены.",
+        "en": "176 Dimitrova Street. Indoor floors and the entrance are not mapped yet."
+      },
+      "category": "dormitory",
+      "buildingId": null,
+      "floor": null,
+      "environment": "outdoor",
+      "x": 38,
+      "y": 138,
+      "width": 57,
+      "height": 88,
+      "nodeIds": [],
+      "aliases": [
+        "общежитие 5",
+        "общага 5",
+        "dorm 5",
+        "Димитрова 176"
+      ],
+      "source": "curation-2026-10-19",
+      "verified": false,
+      "searchable": true,
+      "catalogStatus": "curated",
+      "evidenceIds": [
+        "campus-sign-photo",
+        "yandex-screenshots",
+        "osm"
+      ],
+      "outdoorFeatureIds": [
+        "way/32888053"
+      ],
+      "contextIndices": [
+        4
+      ]
+    },
+    {
+      "id": "campus-coworking",
+      "name": {
+        "ru": "Коворкинг «Точка кипения»",
+        "en": "Tochka Kipeniya coworking"
+      },
+      "mapLabel": {
+        "ru": "Точка кипения",
+        "en": "Coworking"
+      },
+      "originalName": "Коворкинг «Точка кипения»",
+      "description": {
+        "ru": "Коворкинг между общежитиями № 4 и № 5, по указателю территории КубГУ.",
+        "en": "Coworking space between dormitories 4 and 5, identified on the campus directory sign."
+      },
+      "category": "landmark",
+      "buildingId": null,
+      "floor": null,
+      "environment": "outdoor",
+      "x": 34,
+      "y": 224,
+      "width": 28,
+      "height": 25,
+      "nodeIds": [],
+      "aliases": [
+        "коворкинг",
+        "точка кипения",
+        "coworking"
+      ],
+      "source": "curation-2026-10-19",
+      "verified": false,
+      "searchable": true,
+      "catalogStatus": "curated",
+      "evidenceIds": [
+        "campus-sign-photo",
+        "yandex-screenshots"
+      ],
+      "outdoorFeatureIds": [],
+      "contextIndices": [
+        3
+      ]
+    },
+    {
+      "id": "campus-mini-football",
+      "name": {
+        "ru": "Поле для мини-футбола",
+        "en": "Mini-football pitch"
+      },
+      "mapLabel": {
+        "ru": "Мини-футбол",
+        "en": "Mini-football"
+      },
+      "originalName": "Поле для мини-футбола",
+      "description": {
+        "ru": "Площадка севернее общежития № 5. На схеме положение условное; контур на GPS-карте — из OpenStreetMap.",
+        "en": "Pitch north of dormitory 5. Its diagram position is approximate; the GPS-map outline comes from OpenStreetMap."
+      },
+      "category": "sport",
+      "buildingId": null,
+      "floor": null,
+      "environment": "outdoor",
+      "x": 43,
+      "y": 80,
+      "width": 65,
+      "height": 40,
+      "nodeIds": [],
+      "aliases": [
+        "мини футбол",
+        "мини-футбол",
+        "football pitch"
+      ],
+      "source": "curation-2026-10-19",
+      "verified": false,
+      "searchable": true,
+      "catalogStatus": "curated",
+      "evidenceIds": [
+        "campus-sign-photo",
+        "yandex-screenshots",
+        "osm"
+      ],
+      "outdoorFeatureIds": [
+        "way/221217690"
+      ],
+      "contextIndices": []
+    },
+    {
+      "id": "campus-garage",
+      "name": {
+        "ru": "Гараж университета",
+        "en": "University garage"
+      },
+      "mapLabel": {
+        "ru": "Гараж",
+        "en": "Garage"
+      },
+      "originalName": "Гараж университета",
+      "description": {
+        "ru": "Служебное здание севернее комбината питания, по указателю территории.",
+        "en": "Service building north of the dining complex, identified on the campus directory sign."
+      },
+      "category": "landmark",
+      "buildingId": null,
+      "floor": null,
+      "environment": "outdoor",
+      "x": 273.733,
+      "y": 127.829,
+      "width": 46.138,
+      "height": 12.583,
+      "nodeIds": [],
+      "aliases": [
+        "гараж",
+        "garage"
+      ],
+      "source": "curation-2026-10-19",
+      "verified": false,
+      "searchable": true,
+      "catalogStatus": "curated",
+      "evidenceIds": [
+        "campus-sign-photo",
+        "yandex-screenshots"
+      ],
+      "outdoorFeatureIds": [],
+      "contextIndices": [
+        6
+      ]
+    }
+  ],
+  "outdoorLinks": {
+    "building-main": [
+      "way/44677834"
+    ],
+    "building-C": [
+      "way/44677835"
+    ],
+    "building-rest": [
+      "way/32888073"
+    ],
+    "building-pool": [
+      "way/205131886"
+    ],
+    "building-lib": [
+      "node/3875796191"
+    ]
+  }
+}
