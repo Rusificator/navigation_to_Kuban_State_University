@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "KubSU Navigator";
+"NSLocationWhenInUseUsageDescription" = "Show your position on the KubSU campus map. Coordinates stay on your device; tracking stops in the background.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Show your position on the KubSU campus map. Coordinates stay on your device; tracking stops in the background.";

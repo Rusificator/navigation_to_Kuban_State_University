@@ -1,0 +1,312 @@
+[
+  {
+    "type": "missing-entrance",
+    "placeId": "rect11319",
+    "name": "",
+    "buildingId": "pool",
+    "floor": 1,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect11331",
+    "name": "",
+    "buildingId": "pool",
+    "floor": 1,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10675",
+    "name": "",
+    "buildingId": "main",
+    "floor": 1,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10747",
+    "name": "",
+    "buildingId": "main",
+    "floor": 1,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect11156",
+    "name": "1006Л",
+    "buildingId": "L",
+    "floor": 1,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect11021",
+    "name": "",
+    "buildingId": "N",
+    "floor": 1,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect11075",
+    "name": "...",
+    "buildingId": "N",
+    "floor": 1,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10861",
+    "name": "...",
+    "buildingId": "C",
+    "floor": 1,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect11247",
+    "name": "",
+    "buildingId": "rest",
+    "floor": 1,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect9950",
+    "name": "",
+    "buildingId": "pool",
+    "floor": 2,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect9771",
+    "name": "",
+    "buildingId": "L",
+    "floor": 2,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect9645",
+    "name": "Н206",
+    "buildingId": "N",
+    "floor": 2,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect9986",
+    "name": "",
+    "buildingId": "rest",
+    "floor": 2,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10009",
+    "name": "",
+    "buildingId": "rest",
+    "floor": 2,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10011",
+    "name": "",
+    "buildingId": "rest",
+    "floor": 2,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10013",
+    "name": "",
+    "buildingId": "rest",
+    "floor": 2,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10027",
+    "name": "",
+    "buildingId": "rest",
+    "floor": 2,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect12095",
+    "name": "",
+    "buildingId": "main",
+    "floor": 3,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect12097",
+    "name": "",
+    "buildingId": "main",
+    "floor": 3,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect53680",
+    "name": "360",
+    "buildingId": "main",
+    "floor": 3,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect12171",
+    "name": "",
+    "buildingId": "L",
+    "floor": 3,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10516",
+    "name": "Н301А",
+    "buildingId": "N",
+    "floor": 3,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10518",
+    "name": "Н301Б",
+    "buildingId": "N",
+    "floor": 3,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10532",
+    "name": "Н306",
+    "buildingId": "N",
+    "floor": 3,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10592",
+    "name": "",
+    "buildingId": "A",
+    "floor": 3,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect12035",
+    "name": "А316",
+    "buildingId": "lib",
+    "floor": 3,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10126",
+    "name": "",
+    "buildingId": "main",
+    "floor": 4,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect11483",
+    "name": "",
+    "buildingId": "main",
+    "floor": 4,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect11511",
+    "name": "",
+    "buildingId": "main",
+    "floor": 4,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect12514",
+    "name": "4035Л",
+    "buildingId": "L",
+    "floor": 4,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10154",
+    "name": "Н401Б",
+    "buildingId": "N",
+    "floor": 4,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10156",
+    "name": "Н401А",
+    "buildingId": "N",
+    "floor": 4,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10230",
+    "name": "",
+    "buildingId": "A",
+    "floor": 4,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10708",
+    "name": "",
+    "buildingId": "N",
+    "floor": 5,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "rect10774",
+    "name": "",
+    "buildingId": "A",
+    "floor": 5,
+    "status": "field-check-required"
+  },
+  {
+    "type": "missing-entrance",
+    "placeId": "building-C",
+    "name": "Корпус С",
+    "buildingId": "C",
+    "floor": 1,
+    "status": "field-check-required"
+  },
+  {
+    "type": "disconnected-component",
+    "nodeIds": [
+      "node2132",
+      "node2133"
+    ],
+    "affectedPlace": "rect12522",
+    "note": "N401 has other reachable doors. Do not mark the entire room unreachable.",
+    "status": "field-check-required"
+  },
+  {
+    "type": "unverified-georeference",
+    "status": "survey-required"
+  },
+  {
+    "type": "unverified-accessibility",
+    "status": "field-check-required"
+  },
+  {
+    "type": "archive-room-assignments",
+    "status": "university-review-required"
+  }
+]

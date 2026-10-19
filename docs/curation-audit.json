@@ -1,0 +1,230 @@
+{
+  "revision": "2026-10-19.1",
+  "duplicates": [
+    {
+      "originalName": "127",
+      "canonicalId": "rect52820",
+      "suppressedId": "rect10741",
+      "sameGeometry": false,
+      "previousDescription": {
+        "ru": "Налоговый отдел",
+        "en": "Tax Office"
+      }
+    },
+    {
+      "originalName": "109С",
+      "canonicalId": "rect10857",
+      "suppressedId": "rect11121",
+      "sameGeometry": false,
+      "previousDescription": {
+        "ru": "Читальный зал",
+        "en": "Reading room"
+      }
+    },
+    {
+      "originalName": "213",
+      "canonicalId": "rect9510",
+      "suppressedId": "rect9422",
+      "sameGeometry": false,
+      "previousDescription": {
+        "ru": "Учебно-методмческое управление диспетчерская",
+        "en": "Academic Affairs Office, Scheduling Section"
+      }
+    },
+    {
+      "originalName": "214",
+      "canonicalId": "rect9522",
+      "suppressedId": "rect9452",
+      "sameGeometry": false,
+      "previousDescription": {
+        "ru": "Научно-исследовательский центр прогнозирования и предупреждения геологических и техногенных катастроф",
+        "en": "Research Centre for Forecasting and Prevention of Geological and Technological Disasters"
+      }
+    },
+    {
+      "originalName": "215",
+      "canonicalId": "rect9524",
+      "suppressedId": "rect9424",
+      "sameGeometry": false,
+      "previousDescription": {
+        "ru": "Мобилизационный отдел",
+        "en": "Mobilisation Office"
+      }
+    },
+    {
+      "originalName": "216",
+      "canonicalId": "rect9518",
+      "suppressedId": "rect9426",
+      "sameGeometry": false,
+      "previousDescription": {
+        "ru": "Студенчиский профком",
+        "en": "Student Trade Union Committee"
+      }
+    },
+    {
+      "originalName": "Н408",
+      "canonicalId": "rect10246",
+      "suppressedId": "rect10180",
+      "sameGeometry": false,
+      "previousDescription": {
+        "ru": "Аудитория",
+        "en": "Classroom"
+      }
+    },
+    {
+      "originalName": "Н416",
+      "canonicalId": "rect10196",
+      "suppressedId": "rect10186",
+      "sameGeometry": false,
+      "previousDescription": {
+        "ru": "Аудитория",
+        "en": "Classroom"
+      }
+    }
+  ],
+  "assignmentChanges": [
+    {
+      "id": "rect10875",
+      "previousDescription": {
+        "ru": "Читальный зал",
+        "en": "Reading room"
+      }
+    },
+    {
+      "id": "rect10202",
+      "previousDescription": {
+        "ru": "Читальный зал",
+        "en": "Reading room"
+      }
+    },
+    {
+      "id": "rect9524",
+      "previousName": {
+        "ru": "215",
+        "en": "Room 215"
+      },
+      "previousDescription": {
+        "ru": "Мобилизационный отдел",
+        "en": "Mobilisation Office"
+      }
+    },
+    {
+      "id": "rect10857",
+      "previousName": {
+        "ru": "109С",
+        "en": "Room 109S"
+      },
+      "previousDescription": {
+        "ru": "Читальный зал",
+        "en": "Reading room"
+      }
+    },
+    {
+      "id": "rect9767",
+      "previousName": {
+        "ru": "2021Л",
+        "en": "Room 2021L"
+      },
+      "previousDescription": {
+        "ru": "Буфет",
+        "en": "Cafeteria"
+      }
+    },
+    {
+      "id": "rect9518",
+      "previousName": {
+        "ru": "216",
+        "en": "Room 216"
+      },
+      "previousDescription": {
+        "ru": "Студенчиский профком",
+        "en": "Student Trade Union Committee"
+      }
+    },
+    {
+      "id": "rect10669",
+      "previousName": {
+        "ru": "108",
+        "en": "Room 108"
+      },
+      "previousDescription": {
+        "ru": "Технопарк, Оксфордский российский фонд, студенческое научное общество",
+        "en": "Technology Park; Oxford Russia Fund; Student Research Society"
+      }
+    },
+    {
+      "id": "rect9559",
+      "previousName": {
+        "ru": "Лестница",
+        "en": "Staircase"
+      },
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "building-L",
+      "previousName": {
+        "ru": "Корпус Л",
+        "en": "Building L"
+      },
+      "previousDescription": {
+        "ru": "Входы в корпус по схеме исходного приложения.",
+        "en": "Building entrances recorded in the original application’s map."
+      }
+    },
+    {
+      "id": "building-pool",
+      "previousName": {
+        "ru": "Бассейн и спортзал",
+        "en": "Pool and gym"
+      },
+      "previousDescription": {
+        "ru": "Входы в корпус по схеме исходного приложения.",
+        "en": "Building entrances recorded in the original application’s map."
+      }
+    },
+    {
+      "id": "building-lib",
+      "previousName": {
+        "ru": "Библиотека",
+        "en": "Library"
+      },
+      "previousDescription": {
+        "ru": "Входы в корпус по схеме исходного приложения.",
+        "en": "Building entrances recorded in the original application’s map."
+      }
+    }
+  ],
+  "conflicts": [],
+  "resolvedClarifications": [
+    {
+      "placeId": "rect9524",
+      "room": "215",
+      "decision": "Latest user clarification confirms 215, matching the official telephone directory."
+    }
+  ],
+  "addedNodes": [
+    "curated-main-l-landing"
+  ],
+  "addedEdges": [
+    "curated-node992-curated-main-l-landing",
+    "curated-node997-curated-main-l-landing",
+    "curated-curated-main-l-landing-node1023"
+  ],
+  "addedPlaces": [
+    "campus-stadium",
+    "campus-dorm-2",
+    "campus-dorm-3",
+    "campus-dorm-4",
+    "campus-dorm-5",
+    "campus-coworking",
+    "campus-mini-football",
+    "campus-garage"
+  ],
+  "retainedLegacyRoomGeometry": 969,
+  "totalPlaces": 985,
+  "totalNodes": 2477,
+  "totalEdges": 2790
+}

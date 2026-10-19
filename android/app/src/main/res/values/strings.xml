@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">КубГУ Навигатор</string>
+    <string name="title_activity_main">КубГУ Навигатор</string>
+    <string name="package_name">org.kubsu.navigator.next</string>
+    <string name="custom_url_scheme">kubsu-next</string>
+</resources>

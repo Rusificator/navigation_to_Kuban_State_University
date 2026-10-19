@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KubSU Navigator</string>
+    <string name="title_activity_main">KubSU Navigator</string>
+    <string name="package_name">org.kubsu.navigator.next</string>
+    <string name="custom_url_scheme">kubsu-next</string>
+</resources>

@@ -1,0 +1,32 @@
+[
+  {
+    "floor": 1,
+    "areas": 267,
+    "named": 171,
+    "noDoor": 9
+  },
+  {
+    "floor": 2,
+    "areas": 267,
+    "named": 191,
+    "noDoor": 8
+  },
+  {
+    "floor": 3,
+    "areas": 205,
+    "named": 161,
+    "noDoor": 9
+  },
+  {
+    "floor": 4,
+    "areas": 166,
+    "named": 134,
+    "noDoor": 7
+  },
+  {
+    "floor": 5,
+    "areas": 64,
+    "named": 53,
+    "noDoor": 2
+  }
+]

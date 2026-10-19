@@ -1,0 +1,61 @@
+{
+  "apkSha256": "30f7570ac8e3a7c2832ded841b3d066dfc3a21fc4f78600337ef8b38503384aa",
+  "originalRooms": 969,
+  "importedRooms": 969,
+  "missingRoomGeometry": [],
+  "namedRooms": 710,
+  "originalNameIndex": 652,
+  "nodes": 2476,
+  "edges": 2787,
+  "components": [
+    2474,
+    2
+  ],
+  "isolatedComponents": [
+    [
+      "node2132",
+      "node2133"
+    ]
+  ],
+  "roomsWithoutEntrances": [
+    "rect11319",
+    "rect11331",
+    "rect10675",
+    "rect10747",
+    "rect11156",
+    "rect11021",
+    "rect11075",
+    "rect10861",
+    "rect11247",
+    "rect9950",
+    "rect9771",
+    "rect9645",
+    "rect9986",
+    "rect10009",
+    "rect10011",
+    "rect10013",
+    "rect10027",
+    "rect12095",
+    "rect12097",
+    "rect53680",
+    "rect12171",
+    "rect10516",
+    "rect10518",
+    "rect10532",
+    "rect10592",
+    "rect12035",
+    "rect10126",
+    "rect11483",
+    "rect11511",
+    "rect12514",
+    "rect10154",
+    "rect10156",
+    "rect10230",
+    "rect10708",
+    "rect10774"
+  ],
+  "crossFloorEdges": 274,
+  "floors": 5,
+  "buildingGroups": 8,
+  "untranslatedDescriptions": 0
+}
